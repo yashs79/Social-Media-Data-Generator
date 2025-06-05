@@ -30,7 +30,7 @@ The tool generates the following CSV files:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/synthetic-social-media-data-generator.git
+git clone https://github.com/yashs79/Social-Media-Data-Generator.git
 cd synthetic-social-media-data-generator
 
 # Create a virtual environment (optional but recommended)
